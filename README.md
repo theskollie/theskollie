@@ -4,18 +4,9 @@
 
 - 🌴 Based in Miami, FL
 - 🌍 Born and Raised in South Africa
-- 💻 Primary Stack: JavaScript (ES6), React, Node.js + SQLite
-- ⛓ Web 3 / Blockchain Enthusiast
-- 📈 Quantative / Algo Crypto Trading
+- 💻 Primary Stack: JavaScript, React, Node.js, Express, MongoDB / PostgreSQL
+- 📈 Algo Crypto Trading
 - 📊 eCommerce Branding and Management
-
-### Connect with me:
-
-[![website](./img/globe-light.svg)](https://github.com/theskollie)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/SkollieSOL)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/skollie.js)
 
 ### Languages and Tools:
 
@@ -33,7 +24,3 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
-
-[website]: https://github.com/theskollie
-[twitter]: https://twitter.com/SkollieSOL
-[instagram]: https://instagram.com/skollie.js
